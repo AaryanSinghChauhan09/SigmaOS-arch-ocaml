@@ -3,7 +3,7 @@ name = "SigmaOS-arch-ocaml"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-ocaml component"
+description = "SigmaOS SigmaOS-arch-ocaml component"
 upstream = []
 
 [contract]
