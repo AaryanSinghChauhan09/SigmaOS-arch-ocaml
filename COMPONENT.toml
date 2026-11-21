@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-ocaml"
+name = "SigmaOS-ocaml"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS SigmaOS-arch-ocaml component"
+description = "SigmaOS SigmaOS-ocaml component"
 upstream = []
 
 [contract]

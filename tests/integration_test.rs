@@ -1,4 +1,4 @@
-use arch_ocaml::Component;
+use sigmaos_ocaml::Component;
 
 #[test]
 fn test_component_new_aaa() {

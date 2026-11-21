@@ -1,6 +1,6 @@
-# SigmaOS-arch-ocaml
+# SigmaOS-ocaml
 
-SigmaOS SigmaOS-arch-ocaml component
+SigmaOS SigmaOS-ocaml component
 
 - **Category:** Components
 - **Engine:** component
